@@ -1,0 +1,7 @@
+[
+	{"caption": "Setup Contest", "command": "setup_contest"},
+	{"caption": "Add Problem", "command": "add_problem"},
+	{"caption": "Clear Data", "command": "clear_data"},
+	{"caption": "Run Tests", "command": "run_tests"},
+	{"caption": "Select Problem", "command": "select_problem"}
+]

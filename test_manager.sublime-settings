@@ -1,0 +1,18 @@
+{
+	"cpp_executable": "g++-11",
+	"cpp_std": "c++14",
+
+	// customise what should be shown in the output panel on getting different verdicts
+
+	// Add any of these possible verdicts "AC", "RE", "TLE", "WA"
+	"show_input": ["WA", "RE", "TLE"],
+
+	// Add any of these possible verdicts "AC", "RE", "TLE", "WA"
+	"show_expected_output": ["WA"],
+
+	// Add any of these possible verdicts "AC", "WA"
+	"show_output": ["WA"],
+
+	// Add any of these possible verdicts "RE", "WA"
+	"show_error_description": ["RE", "CE"]
+}
